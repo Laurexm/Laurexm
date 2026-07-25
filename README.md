@@ -239,22 +239,17 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 <div align="center">
 
 <a href="https://youtu.be/NdYWuo9OFAw?si=LuCyV0tJjUFk57PS">
-<img src="https://media.tenor.com/4AS6wJ8r8QAAAAAC/music.gif" width="160">
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif" width="150">
 </a>
 
 <br>
 
-<b>🎵 Currently Playing</b>
-
-<br>
-
-<i>Click the cassette.</i>
-
-<br>
-
-"Every great project deserves a soul crushing soundtrack."
+<a href="https://youtu.be/NdYWuo9OFAw?si=LuCyV0tJjUFk57PS">
+<b>🎵 Listen to Peak</b>
+</a>
 
 </div>
+
 ---
 
 # 📫 Connect
@@ -277,27 +272,7 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 ---
 
-# 📖 Mission Logs
-
-Leave a message 👇
-
-[![Leave a Mission Log](https://img.shields.io/badge/🪖_Leave_Mission_Log-1F6FEB?style=for-the-badge)](../../issues/new?template=guestbook.yml)
-
----
-
-<!-- GUESTBOOK_START -->
-
-## 🪖 MISSION LOG
-
-_No entries yet._
-
-<!-- GUESTBOOK_END -->
-
----
-
 <div align="center">
-
-## 💬
 
 > **and the universe said i love you, cause you are love...**
 
