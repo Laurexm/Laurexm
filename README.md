@@ -4,12 +4,7 @@
 
 <div align="center">
 
-███████╗██╗██████╗  █████╗ ███╗   ██╗███████╗
-╚══███╔╝██║██╔══██╗██╔══██╗████╗  ██║██╔════╝
-  ███╔╝ ██║██║  ██║███████║██╔██╗ ██║█████╗
- ███╔╝  ██║██║  ██║██╔══██║██║╚██╗██║██╔══╝
-███████╗██║██████╔╝██║  ██║██║ ╚████║███████╗
-╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
+**Zidane**
 
 ### *lowkirkenuinely, high on caffeine and code.*
 
@@ -237,22 +232,25 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 ---
 
-# 🎵 Listen to Peak 
-
 <div align="center">
 
 <a href="https://youtu.be/NdYWuo9OFAw?si=LuCyV0tJjUFk57PS">
-
-<img src="https://media.tenor.com/4AS6wJ8r8QAAAAAC/music.gif" width="140"/>
-
-### 🎧 Click here to play something good
-
+<img src="https://media.tenor.com/4AS6wJ8r8QAAAAAC/music.gif" width="160">
 </a>
 
-*"Every great project deserves a soul crushing soundtrack."*
+<br>
+
+<b>🎵 Currently Playing</b>
+
+<br>
+
+<i>Click the cassette.</i>
+
+<br>
+
+"Every great project deserves a soul crushing soundtrack."
 
 </div>
-
 ---
 
 # 📫 Connect
@@ -260,7 +258,7 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 <p align="center">
 
 <a href="mailto:zidanenadar@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail">
+📧 zidanenadar@gmail.com
 </a>
 
 <a href="https://linkedin.com/in/zidanenadar">
@@ -277,19 +275,19 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 # 📖 Mission Logs
 
-Want to leave a message?
+Leave a message 👇
 
-### ➜ Sign the Guestbook
+[![Leave a Mission Log](https://img.shields.io/badge/🪖_Leave_Mission_Log-1F6FEB?style=for-the-badge)](../../issues/new?template=guestbook.yml)
 
-*(Powered by GitHub Actions)*
+---
 
-[![Guestbook](https://img.shields.io/badge/Leave_a_Message-1F6FEB?style=for-the-badge)](https://github.com/Laurexm/Laurexm/issues/new?template=guestbook_entry.yml)
+<!-- GUESTBOOK_START -->
 
-<!-- GUESTBOOK-START -->
+## 🪖 MISSION LOG
 
-<!-- Messages will automatically appear here -->
+_No entries yet._
 
-<!-- GUESTBOOK-END -->
+<!-- GUESTBOOK_END -->
 
 ---
 
