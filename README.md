@@ -1,278 +1,213 @@
-<!-- ========================================================= -->
-<!--                    ZIDANE | GITHUB PROFILE                -->
-<!-- ========================================================= -->
+<!-- ============================================================ -->
+<!--                    OPERATOR PROFILE — ZEDDY                  -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-# Zidane
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" alt="divider" />
 
-### *low key, high on caffeine and code.*
+<h1>🎖️ OPERATOR: ZIDANE "ZEDDY" NADAR</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final+Year+Data+Science+Student;Building+Products+with+Python;Turning+Messy+Data+into+Insights;Currently+Building+EDA+Automation;Always+Learning+Something+New" />
-
-<br>
-
-<p>
-<a href="mailto:zidanenadar@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/zidanenadar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/Laurexm"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"></a>
-</p>
+<a href="https://github.com/Laurexm">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=4B5320&center=true&vCenter=true&width=600&lines=low+key%2C+high+on+caffeine%2C+and+code;final-year+data+science+student;cleaning+data+%7C+visualizing+it+%7C+finding+the+insight;deploying+EDA+automation+one+dataset+at+a+time" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<br/>
 
-# 🪖 Mission Brief
+<!-- ============================================================ -->
+<!--                      MISSION BRIEFING                         -->
+<!-- ============================================================ -->
+
+## 🪖 MISSION BRIEFING
 
 ```yaml
-Name: Zidane
-
-Role:
-  Final Year Data Science Student
-
-Mission:
-  Building tools that remove repetitive analytical work
-  and let people spend more time solving real problems.
-
-Current Status:
-  Building > Learning
-
-Location:
-  Mumbai, India
+callsign:      Zeddy
+class:         Data Scientist (Recruit Tier — still earning stripes)
+status:        Final-year Data Science student
+current_op:    EDA Automation — targeting ~80% reduction in manual effort
+loadout_pref:  clean data > visualize > extract insight > repeat
+motto:         "low key, high on caffeine, and code"
 ```
 
-I enjoy building projects that solve real problems—especially those involving **data cleaning, visualization, automation, and extracting meaningful insights from messy datasets.**
+I'm a final-year data science student who genuinely loves the whole process — cleaning messy data, visualizing it, and digging out the insight hiding underneath. Still early in the field, but dedicated to getting better one dataset at a time.
 
-Currently focused on creating products that make data analysis faster, smarter, and more accessible.
+<br/>
 
----
+<!-- ============================================================ -->
+<!--                         LOADOUT                                -->
+<!-- ============================================================ -->
 
-# 🎯 Current Objective
+## 🎯 LOADOUT (Tech Stack)
 
-> Building an **EDA Automation Engine** that aims to reduce nearly **80% of manual exploratory data analysis** using Python.
+**Primary weapons**
 
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 📊 Insightly
-
-A Python-based data analysis tool capable of automatically analyzing datasets.
-
-### Features
-
-- CSV / Excel / JSON Support
-- Automatic Statistical Summary
-- Data Cleaning
-- Charts & Visualizations
-- Quick Insights
-
-**Tech**
-
-`Python`
-`Pandas`
-`Matplotlib`
-`NumPy`
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI vs Student Performance
-
-A complete Exploratory Data Analysis project studying how AI usage affects student performance.
-
-### Process
-
-- Data Cleaning
-- Missing Value Handling
-- Visualization
-- Correlation Analysis
-- Insight Generation
-
-**Tech**
-
-`Python`
-`Pandas`
-`Matplotlib`
-`Scikit-Learn`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚙ Tech Arsenal
-
-### Programming
-
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,html" />
 </p>
 
-### Data Science
+**Attachments (Python libraries)**
 
-<p>
+`Pandas` · `NumPy` · `Matplotlib` · `scikit-learn`
 
-Python • Pandas • NumPy • Matplotlib • Scikit-Learn • SAS • R
+**Field intel (Databases & languages)**
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="oracle" />
 </p>
 
-### Databases
+`SAS` · `R` · currently field-testing **NoSQL**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+**Support gear**
 
-Oracle • NoSQL (Learning)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
-### Tools
+`Canva` for visuals · editing on the go with **LightMotion** (Android) · currently training on **DaVinci Resolve** (PC)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<br/>
 
-Canva • DaVinci Resolve • Alight Motion
+<!-- ============================================================ -->
+<!--                     ACTIVE DEPLOYMENT                         -->
+<!-- ============================================================ -->
 
+## 📡 ACTIVE DEPLOYMENT
+
+🔭 Currently building **AutoEDA** — an automated EDA tool that cleans, visualizes, and narrates a full analysis report for any dataset, with the goal of cutting manual effort by ~80%.
+
+🌱 Currently training in **NoSQL**
+
+💬 Ask me about **the data cleaning → insight pipeline** (or just life in general)
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                     AFTER-ACTION REPORTS                      -->
+<!-- ============================================================ -->
+
+## 🏆 AFTER-ACTION REPORTS (Featured Projects)
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Insightly
+A Python-based tool that lets users upload any dataset — CSV, Excel, or JSON — and automatically generates statistical summaries and visualizations. No manual setup required.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 AI vs. Student Performance — EDA
+A full exploratory data analysis on a dataset examining how GenAI tool usage relates to student academic performance — complete data cleaning, outlier detection, univariate and bivariate analysis, and insight extraction from raw numbers to a clear story.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                          COMMS                                -->
+<!-- ============================================================ -->
+
+## 📻 OPEN COMMS
+
+<p align="left">
+<a href="mailto:zidanenadar@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zidanenadar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/Laurexm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
----
+<br/>
 
-# 📡 Currently Learning
+<!-- ============================================================ -->
+<!--                      RECON (Fun Section)                      -->
+<!-- ============================================================ -->
 
-- 🌱 NoSQL
-- ⚡ Better Backend Development
-- 🤖 AI-powered Automation
-- 📈 Product Development
-- ☁ Building Better Data Tools
+## 🎮 RECON
 
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Laurexm&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurexm&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Laurexm&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Laurexm&theme=github-compact"/>
-
-</p>
-
----
-
-# 🎮 Loadout
-
-| | |
-|:--|:--|
-| ☕ | Coffee Experiments |
-| 📷 | Photography |
-| 🎥 | Video Editing |
-| 🏋 | Gym |
-| 🧠 | Psychology |
-| 🌌 | Astronomy |
-| 📚 | Reading |
-| 🎮 | Call of Duty Mobile |
-| 🐹 | Animal Lover |
-| ✍ | Writing Things Nobody Asked For |
-
----
-
-# 🎵 Listen While You Scroll
+```yaml
+weapon_of_choice:   keyboard, unlimited ammo of coffee
+current_streak:     shipping small projects one commit at a time
+loadout_philosophy: minimal, clean, and it better make sense at 2am
+side_quest:         learning DaVinci Resolve so my edits stop crashing my phone
+rank_progress:      recruit → grinding XP one dataset at a time
+```
 
 <div align="center">
-
-<a href="https://open.spotify.com/">
-
-<img src="https://media.tenor.com/4AS6wJ8r8QAAAAAC/music.gif" width="140"/>
-
-### 🎧 Click here to play something good
-
+<table width="100%">
+<tr>
+<td align="center">
+<a href="#">
+<strong>🎧 Listen to cool music</strong>
+<br /><br />
+<img height="90" alt="Music" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif">
 </a>
-
-*"Every great project deserves a better soundtrack."*
-
+<br/>
+<sub><i>(drop your playlist link here)</i></sub>
+</td>
+</tr>
+</table>
 </div>
 
----
+<br/>
 
-# 📫 Connect
+<!-- ============================================================ -->
+<!--                        INTEL / STATS                           -->
+<!-- ============================================================ -->
+
+## 📊 INTEL
 
 <p align="center">
-
-<a href="mailto:zidanenadar@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://linkedin.com/in/zidanenadar">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin">
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Laurexm&show_icons=true&locale=en&theme=dark&hide_border=true&title_color=4B5320&icon_color=4B5320" alt="Zeddy's github stats" />
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laurexm&theme=dark&hide_border=true&ring=4B5320&fire=4B5320" alt="streak stats" />
+</p>
 
-# 📖 Mission Logs
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Laurexm&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&title_color=4B5320" alt="top langs" />
+</p>
 
-Want to leave a message?
+<br/>
 
-### ➜ Sign the Guestbook
+<!-- ============================================================ -->
+<!--                        GUESTBOOK                               -->
+<!-- ============================================================ -->
 
-*(Powered by GitHub Actions)*
+## 📋 OPERATIONS LOG (Guestbook)
 
-[![Guestbook](https://img.shields.io/badge/Leave_a_Message-1F6FEB?style=for-the-badge)](https://github.com/Laurexm/Laurexm/issues/new?template=guestbook_entry.yml)
+*Sign in below, soldier. Leave your callsign and a message.*
 
-<!-- GUESTBOOK-START -->
+> 🖊️ **[Click here to leave an entry](../../issues/new?title=Guestbook+Entry&body=Callsign:%0AMessage:)** — open an issue with your name and message and it'll get added to the log below.
 
-<!-- Messages will automatically appear here -->
+| Callsign | Date | Message |
+|---|---|---|
+| _awaiting first transmission..._ | — | — |
 
-<!-- GUESTBOOK-END -->
+<br/>
 
----
-
-<div align="center">
-
-## 💬
-
-> **Low key.**
->
-> **High on caffeine.**
->
-> **Higher on code.**
-
-</div>
-
----
+<!-- ============================================================ -->
+<!--                          FOOTER                                -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-![](https://count.getloli.com/get/@Laurexm?theme=rule34)
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" alt="divider" />
 
-<img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/parrot.gif" width="40">
-<img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/githubparrot.gif" width="40">
-<img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/dealwithitparrot.gif" width="40">
-<img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/fastparrot.gif" width="40">
-<img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/opensourceparrot.gif" width="40">
+![Visitor Count](https://profile-counter.glitch.me/Laurexm/count.svg)
 
-### Thanks for visiting.
+<br/>
 
-*"See you after the next commit."*
+🦜 party by parrots 🦜
+<br/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" alt="party parrot" />
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" alt="party parrot" />
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" alt="party parrot" />
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" alt="party parrot" />
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" alt="party parrot" />
 
 </div>
