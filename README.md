@@ -113,91 +113,91 @@ A complete Exploratory Data Analysis project studying how AI usage affects stude
 
 ### 💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,r" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=r" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
 </p>
-
-**Languages**
-- 🐍 **Python** (Advanced)
-- 📊 **R** (Advanced)
-- 🌐 **HTML/CSS** (Basic)
 
 ---
 
 ### 📊 Data Science & Analytics
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
+  <img src="https://www.sas.com/etc.clientlibs/sas/clientlibs/clientlib-base/resources/images/logos/sas-logo.svg" height="45"/>
+</p>
 
-**Python Ecosystem:** Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
+**Python Ecosystem:** Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn
 
 **R Ecosystem:** ggplot2 • Data Frames • Data Manipulation • Statistical Analysis
 
-**SAS:** Data Steps • PROC SQL • Data Cleaning • Basic Statistical Analysis
+**SAS:** Data Steps • PROC SQL • Data Cleaning • Statistical Analysis
 
-**Excel:** Pivot Tables • XLOOKUP/VLOOKUP • Conditional Formatting • Data Cleaning • Basic Charts
-
-</p>
+**Excel:** Pivot Tables • XLOOKUP • VLOOKUP • Conditional Formatting • Charts
 
 ---
 
 ### 🗄 Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
 </p>
 
-- 🛢 **MySQL** (Intermediate)
-- 🏛 **Oracle / PL-SQL** (Intermediate)
-- 🍃 **MongoDB**
-- 🌱 **NoSQL** *(Currently Learning)*
+**MySQL** • Database Design • Joins • Transactions
 
-**Database Skills**
+**Oracle / PL-SQL** • Stored Procedures • Functions • Triggers • Cursors
 
-- Database Design
-- Joins & Subqueries
-- Transactions
-- Stored Procedures
-- Functions
-- Triggers
-- Cursors
+**MongoDB**
+
+🌱 Currently learning **NoSQL**
 
 ---
 
 ### ☁ Big Data
 
-- ⚡ Apache Spark *(Basic)*
-  - PySpark Fundamentals
-  - DataFrames
-  - Basic Transformations
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45"/>
+  <img src="https://cdn.simpleicons.org/apachekafka" height="45"/>
+</p>
 
-- 📡 Apache Kafka *(Basic)*
-  - Producers & Consumers
-  - Topics
-  - Message Streaming Fundamentals
+**Apache Spark**
+- PySpark
+- DataFrames
+- Transformations
+
+**Apache Kafka**
+- Producers & Consumers
+- Topics
+- Message Streaming
 
 ---
 
 ### 🛠 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,canva" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,canva" height="45"/>
+  <img src="https://cdn.simpleicons.org/davinciresolve" height="45"/>
 </p>
 
-- Git & GitHub
-- VS Code
-- Canva *(Advanced)*
-- DaVinci Resolve *(Learning)*
-- Alight Motion
+Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 ---
 
-### 🎨 Other Skills
+### ✨ Other Skills
 
 - ✍ Creative Writing
-- 📄 Technical & Event Documentation
-- 🎯 Poster & Banner Design
+- 📄 Technical Documentation
+- 🎨 Poster & Banner Design
 - 📱 Social Media Creatives
-- 🎟 Lanyard & Brochure Design
+- 📑 Brochure & Lanyard Design
 
 ---
 
@@ -207,9 +207,8 @@ A complete Exploratory Data Analysis project studying how AI usage affects stude
 - ⚡ Backend Development
 - 🤖 AI-powered EDA Automation
 - 📈 Product Development
-- ☁ Data Engineering & Big Data
+- ☁ Data Engineering
 - 🎬 DaVinci Resolve
-
 # 📈 GitHub Activity
 
 <p align="center">
