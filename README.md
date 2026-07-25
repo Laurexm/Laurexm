@@ -6,7 +6,7 @@
 
 <div align="center">
 
-⚡ 𝐙 𝐈 𝐃 𝐀 𝐍 𝐄
+  𝐙 𝐈 𝐃 𝐀 𝐍 𝐄
 
 </div>
 
@@ -189,9 +189,9 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 # 📡 Currently Learning
 
-- 🌱 NoSQL
-- 🤖 EDA Automation
-- 🎬 DaVinci Resolve
+-  NoSQL
+-  EDA Automation
+-  DaVinci Resolve
 
 # 📈 GitHub Activity
 
@@ -217,7 +217,7 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 ---
 
-# 🎮 Loadout
+# 🎮 Loadout (Hobbies)
 
 | | |
 |:--|:--|
