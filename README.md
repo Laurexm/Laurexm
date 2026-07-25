@@ -4,7 +4,12 @@
 
 <div align="center">
 
-# Zidane
+███████╗██╗██████╗  █████╗ ███╗   ██╗███████╗
+╚══███╔╝██║██╔══██╗██╔══██╗████╗  ██║██╔════╝
+  ███╔╝ ██║██║  ██║███████║██╔██╗ ██║█████╗
+ ███╔╝  ██║██║  ██║██╔══██║██║╚██╗██║██╔══╝
+███████╗██║██████╔╝██║  ██║██║ ╚████║███████╗
+╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
 
 ### *lowkirkenuinely, high on caffeine and code.*
 
@@ -113,26 +118,11 @@ A complete Exploratory Data Analysis project studying how AI usage affects stude
 
 ### 💻 Programming
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=r" height="45"/>
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
-</p>
+Python • R • HTML • CSS • SAS • SQL • PL/SQL
 
 ---
 
 ### 📊 Data Science & Analytics
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
-  <img src="https://www.sas.com/etc.clientlibs/sas/clientlibs/clientlib-base/resources/images/logos/sas-logo.svg" height="45"/>
-</p>
 
 **Python Ecosystem:** Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn
 
@@ -182,11 +172,6 @@ A complete Exploratory Data Analysis project studying how AI usage affects stude
 
 ### 🛠 Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,canva" height="45"/>
-  <img src="https://cdn.simpleicons.org/davinciresolve" height="45"/>
-</p>
-
 Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 ---
@@ -194,21 +179,22 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 ### ✨ Other Skills
 
 - ✍ Creative Writing
+- 🎬 Video Editing
+- 📹 Cinematography
+- 📸 Photography
+- 🎨 Graphic Design
 - 📄 Technical Documentation
-- 🎨 Poster & Banner Design
-- 📱 Social Media Creatives
-- 📑 Brochure & Lanyard Design
-
+- 📊 Data Storytelling
+- 👥 Team Leadership
+- 📅 Event Management
 ---
 
 # 📡 Currently Learning
 
 - 🌱 NoSQL
-- ⚡ Backend Development
-- 🤖 AI-powered EDA Automation
-- 📈 Product Development
-- ☁ Data Engineering
+- 🤖 EDA Automation
 - 🎬 DaVinci Resolve
+
 # 📈 GitHub Activity
 
 <p align="center">
@@ -255,7 +241,7 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 <div align="center">
 
-<a href="https://open.spotify.com/](https://youtu.be/NdYWuo9OFAw?si=LuCyV0tJjUFk57PS">
+<a href="https://youtu.be/NdYWuo9OFAw?si=LuCyV0tJjUFk57PS">
 
 <img src="https://media.tenor.com/4AS6wJ8r8QAAAAAC/music.gif" width="140"/>
 
@@ -279,6 +265,10 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 <a href="https://linkedin.com/in/zidanenadar">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://drive.google.com/file/d/1SeTAcyivZvotjztTdinK7pUXTYcpxSsy/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive">
 </a>
 
 </p>
@@ -322,6 +312,18 @@ Want to leave a message?
 <img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/dealwithitparrot.gif" width="40">
 <img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/fastparrot.gif" width="40">
 <img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/opensourceparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/fiestaparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="40">
 
 ### Thanks for visiting.
 
