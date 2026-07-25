@@ -283,36 +283,35 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 
 ![](https://count.getloli.com/get/@Laurexm?theme=rule34)
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/slowparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/fiestaparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="40">
+<!-- Coding -->
 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40">
+
+<!-- Coffee -->
 <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotcop.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotbeer.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotmustache.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotwave1.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotwave2.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotwave3.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotclap.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotheadbang.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotjump.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotsad.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotlove.gif" width="40">
+
+<!-- Open Source -->
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="40">
+
+<!-- GitHub -->
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40">
+
+<!-- Reading -->
 <img src="https://cultofthepartyparrot.com/parrots/hd/parrotreading.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotsleep.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotshuffle.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotparty.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotrobot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotscience.gif" width="40">
+
+<!-- Thinking -->
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrotthink.gif" width="40">
+
+<!-- Celebration -->
+<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="40">
+
+<!-- Party -->
+<img src="https://cultofthepartyparrot.com/parrots/hd/fiestaparrot.gif" width="40">
+
+<!-- Fast coding -->
+<img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="40">
+
+<!-- Deal with it -->
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="40">
 
 
 ### Thanks for visiting.
