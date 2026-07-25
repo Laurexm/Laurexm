@@ -4,7 +4,13 @@
 
 <div align="center">
 
-**Zidane**
+<div align="center">
+
+⚡ 𝐙 𝐈 𝐃 𝐀 𝐍 𝐄
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Products+with+Data.;Python+Developer.;Turning+Messy+Data+into+Insights.;Low+Key.+High+on+Caffeine+and+Code." />
+
+</div>
 
 ### *lowkirkenuinely, high on caffeine and code.*
 
