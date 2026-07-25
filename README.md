@@ -291,8 +291,7 @@ Git • GitHub • VS Code • Canva • DaVinci Resolve • Alight Motion
 <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="40">
 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40">
 <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="40">
-<img src="https://cultofthepartyparrot.com/parrots/hd/fiestaparrot.gif" width="40">
+<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="40">'
 <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="40">
 <img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="40">
 <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="40">
